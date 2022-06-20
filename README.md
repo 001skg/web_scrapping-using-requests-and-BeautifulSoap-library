@@ -1,0 +1,3 @@
+# web_scrapping-using-requests-and-BeautifulSoap-library
+This web scrapping script has been written in python using requests and BeautifulSoap libraries.
+Using requests and BeautifulSoap libraries try to do web scrapping(extract information from external web url).This code has been written in python using Jupyter Notebook.Web scraping refers to the extraction of data from a website. This information is collected and then exported into a format that is more useful for the user. Be it a spreadsheet or an API. For learning purpose,code has been written in python and used external web url.Don't try to do it for any illegal activity.
